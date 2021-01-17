@@ -18,6 +18,7 @@ class vehicle{
     }
     
     // this function can only be accessed by clas s member only but not outside class
+    
     private func checkEmergency()->Bool{
         if self.airbag{
             print("car damaged")
