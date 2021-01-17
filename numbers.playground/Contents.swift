@@ -1,5 +1,4 @@
 import UIKit
-
 // ways to declare a numbers
 
 var i:Int
